@@ -1,0 +1,11 @@
+
+import { ReactNode } from 'react';
+
+export interface FeatureProps {
+  icon: ReactNode;
+  title: string;
+  description: string;
+  tag?: string;
+  bgColor: string;
+  iconColor: string;
+}
