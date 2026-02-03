@@ -46,7 +46,7 @@ const App: React.FC = () => {
 
           <div className="max-w-3xl mx-auto">
             <p className="text-xl md:text-2xl text-slate-600 mb-12 leading-relaxed font-light italic border-l-4 border-blue-600 pl-8 py-2 bg-slate-50/50 rounded-r-xl text-left md:text-center">
-              "Il s'agit du marketplace le moins cher au monde, juste pour vous les Français. 
+              "Il s'agit de la marketplace le moins cher au monde, juste pour vous les Français. 
               On ne pourra plus dire qu'on ne sait pas où se trouve le made in France."
             </p>
           </div>
